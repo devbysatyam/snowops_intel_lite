@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="docs/images/dashboard_overview.png" alt="SnowOps Intel Lite Banner" width="100%" style="border-radius: 12px; border: 1px solid #333;">
-  
+  <img src="docs/images/main_banner.png" alt="SnowOps Intel Lite Banner" width="100%" style="border-radius: 12px; border: 1px solid #333;">
   <h1>❄️ SnowOps Intelligence (Lite)</h1>
   
   <p><strong>Free, open-source Snowflake operations intelligence platform.</strong></p>
 
   <p>
-    <a href="https://github.com/devbysatyam/snowflake_ops_intelligence/issues"><img src="https://img.shields.io/github/issues/devbysatyam/snowflake_ops_intelligence?style=for-the-badge&color=blue" alt="Issues"></a>
-    <a href="https://github.com/devbysatyam/snowflake_ops_intelligence/pulls"><img src="https://img.shields.io/github/issues-pr/devbysatyam/snowflake_ops_intelligence?style=for-the-badge&color=green" alt="Pull Requests"></a>
-    <a href="https://github.com/devbysatyam/snowflake_ops_intelligence/stargazers"><img src="https://img.shields.io/github/stars/devbysatyam/snowflake_ops_intelligence?style=for-the-badge&color=yellow" alt="Stars"></a>
-    <a href="https://github.com/devbysatyam/snowflake_ops_intelligence/network/members"><img src="https://img.shields.io/github/forks/devbysatyam/snowflake_ops_intelligence?style=for-the-badge&color=lightgray" alt="Forks"></a>
-    <a href="https://github.com/devbysatyam/snowflake_ops_intelligence/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge" alt="License"></a>
+    <a href="https://github.com/devbysatyam/snowops_intel_lite/issues"><img src="https://img.shields.io/github/issues/devbysatyam/snowops_intel_lite?style=for-the-badge&color=blue" alt="Issues"></a>
+    <a href="https://github.com/devbysatyam/snowops_intel_lite/pulls"><img src="https://img.shields.io/github/issues-pr/devbysatyam/snowops_intel_lite?style=for-the-badge&color=green" alt="Pull Requests"></a>
+    <a href="https://github.com/devbysatyam/snowops_intel_lite/stargazers"><img src="https://img.shields.io/github/stars/devbysatyam/snowops_intel_lite?style=for-the-badge&color=yellow" alt="Stars"></a>
+    <a href="https://github.com/devbysatyam/snowops_intel_lite/network/members"><img src="https://img.shields.io/github/forks/devbysatyam/snowops_intel_lite?style=for-the-badge&color=lightgray" alt="Forks"></a>
+    <a href="https://github.com/devbysatyam/snowops_intel_lite/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge" alt="License"></a>
   </p>
 
   <p>
